@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":"STEAM GIFT CARD $10",
+        "price": 10,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 2,
+        "name":"STEAM GIFT CARD $20",
+        "price": 20,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 3,
+        "name":"STEAM GIFT CARD $50",
+        "price": 50,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 4,
+        "name":"STEAM GIFT CARD $80",
+        "price": 80,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 5,
+        "name":"STEAM GIFT CARD $300",
+        "price": 300,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 6,
+        "name":"STEAM GIFT CARD $1000",
+        "price": 1000,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 7,
+        "name":"STEAM GIFT CARD $1500",
+        "price": 1500,
+        "image": "assets/Steam_icon_logo.svg.png"
+    },
+    {
+        "id": 8,
+        "name":"STEAM GIFT CARD $2000",
+        "price": 2000,
+        "image": "assets/Steam_icon_logo.svg.png"
+    }
+
+]
